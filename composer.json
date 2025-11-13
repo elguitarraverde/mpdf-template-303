@@ -1,0 +1,17 @@
+{
+    "name": "usuario/mpdf-template-303",
+    "autoload": {
+        "psr-4": {
+            "Usuario\\MpdfTemplate303\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Antonio",
+            "email": "elguitarraverde@hotmail.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.2"
+    }
+}
